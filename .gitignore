@@ -1,0 +1,27 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude Code 本地个人配置（项目共享配置 .claude/settings.json 仍可提交）
+.claude/settings.local.json
+.claude/.credentials*
+
+# 临时/备份
+*.bak
+*.tmp
+*.log
+
+# 万一以后加脚本时常用的
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.local
