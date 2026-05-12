@@ -41,5 +41,9 @@
   "homepage": "https://github.com/baller-coder/jiaoyuan-love#readme",
   "engines": {
     "node": ">=16.7.0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   }
 }
