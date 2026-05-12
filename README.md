@@ -1,5 +1,10 @@
 # 教员的恋爱方法论
 
+[![npm version](https://img.shields.io/npm/v/jiaoyuan-love?color=brightgreen&label=npm)](https://www.npmjs.com/package/jiaoyuan-love)
+[![downloads](https://img.shields.io/npm/dm/jiaoyuan-love?color=blue)](https://www.npmjs.com/package/jiaoyuan-love)
+[![license](https://img.shields.io/npm/l/jiaoyuan-love)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/baller-coder/jiaoyuan-love?style=social)](https://github.com/baller-coder/jiaoyuan-love)
+
 > 硬核的方法论，软糯的问题。
 >
 > 把毛选里那套"调查研究 / 矛盾分析 / 持久战" 的硬核思想方法，用来拆解你人生最让你失眠的儿女情长。
