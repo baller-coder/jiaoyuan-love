@@ -22,11 +22,28 @@
 
 这个项目的 Skill 形态参考了 [`HughYau/qiushi-skill`](https://github.com/HughYau/qiushi-skill)（求是 Skill，3000+ stars）——它把这套方法论用在通用工作场景。本项目把同样的骨架做了**情感关系垂直特化**，覆盖它没碰的场景。
 
-## 安装（v0.1 待发布后填写）
+## 安装
+
+**一行命令**（推荐，需要 Node.js ≥ 16.7）：
 
 ```bash
-git clone <repo-url>
-# 把 jiaoyuan-love/ 复制到 ~/.claude/skills/ 即可
+npx jiaoyuan-love
+```
+
+会自动把 skill 安装到 `~/.claude/skills/jiaoyuan-love/`。装完**重启 Claude Code**，新会话里描述一个情感困境就能触发。
+
+其他命令：
+
+```bash
+npx jiaoyuan-love --help        # 查看帮助
+npx jiaoyuan-love --uninstall   # 卸载
+```
+
+**手动安装**（不想用 npm 的话）：
+
+```bash
+git clone --depth 1 https://github.com/baller-coder/jiaoyuan-love.git
+# 把 jiaoyuan-love/jiaoyuan-love/ 这个子目录复制/链接到 ~/.claude/skills/jiaoyuan-love/
 ```
 
 ## 九大思维工具

@@ -1,0 +1,45 @@
+{
+  "name": "jiaoyuan-love",
+  "version": "0.1.0",
+  "description": "教员的恋爱方法论 — 用毛选方法（矛盾论/实践论/调查研究/持久战）拆解情感困境的 Claude Code Skill",
+  "bin": {
+    "jiaoyuan-love": "./bin/install.js"
+  },
+  "files": [
+    "bin/",
+    "jiaoyuan-love/",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "claude-code",
+    "claude-code-skill",
+    "claude-skill",
+    "skill",
+    "mao-zedong",
+    "毛泽东",
+    "毛选",
+    "教员",
+    "relationship",
+    "dating",
+    "love",
+    "恋爱",
+    "情感",
+    "mental-models",
+    "methodology",
+    "chinese"
+  ],
+  "author": "baller-coder",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baller-coder/jiaoyuan-love.git"
+  },
+  "bugs": {
+    "url": "https://github.com/baller-coder/jiaoyuan-love/issues"
+  },
+  "homepage": "https://github.com/baller-coder/jiaoyuan-love#readme",
+  "engines": {
+    "node": ">=16.7.0"
+  }
+}

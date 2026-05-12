@@ -23,9 +23,16 @@ desktop.ini
 .transcript*
 transcript*.md
 
-# 万一以后加脚本时常用的
+# Node / npm
 node_modules/
+*.tgz
+package-lock.json
+npm-debug.log*
+
+# Python（万一以后加脚本）
 __pycache__/
 *.pyc
+
+# 环境变量
 .env
 .env.local
