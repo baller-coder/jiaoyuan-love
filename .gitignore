@@ -19,6 +19,10 @@ desktop.ini
 *.tmp
 *.log
 
+# 防止从 ~/.claude/projects 提取的 transcript 副本泄漏
+.transcript*
+transcript*.md
+
 # 万一以后加脚本时常用的
 node_modules/
 __pycache__/

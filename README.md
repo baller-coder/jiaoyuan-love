@@ -56,6 +56,15 @@ git clone <repo-url>
 
 完整链路见 [`jiaoyuan-love/examples/暧昧三个月没下文要不要表白.md`](jiaoyuan-love/examples/暧昧三个月没下文要不要表白.md)。
 
+## 案例库
+
+- [暧昧三个月没下文要不要表白](jiaoyuan-love/examples/暧昧三个月没下文要不要表白.md) — 暧昧期决策（定调案例）
+- [已读不回该不该追问](jiaoyuan-love/examples/已读不回该不该追问.md) — 高频低烈度的沉默焦虑
+- [异地恋三年要不要分](jiaoyuan-love/examples/异地恋三年要不要分.md) — 高利害长决策
+- [吵架后该怎么复盘](jiaoyuan-love/examples/吵架后该怎么复盘.md) — 关系修复
+- [回避型遇上焦虑型怎么相处](jiaoyuan-love/examples/回避型遇上焦虑型怎么相处.md) — 依恋类型冲突 / 追逃循环（**真实测试沉淀**）
+- [跳槽该不该跳](jiaoyuan-love/examples/跳槽该不该跳.md) — 跨场景示范（职场决策）
+
 
 
 ## 立场说明
