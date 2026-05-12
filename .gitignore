@@ -28,6 +28,7 @@ node_modules/
 *.tgz
 package-lock.json
 npm-debug.log*
+.npmrc
 
 # Python（万一以后加脚本）
 __pycache__/
